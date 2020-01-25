@@ -2,6 +2,9 @@
 
 My Name is Mohammad Heydari, in Persian (محمد حیدری). I was born in July 30, 1993.
 
+### News
+- I invited to present a workshop in Winter Seminar Series - WSS2019 at Sharif University of Technology. (December 2019)
+
 ### Publication
 - Heydari, Mohammad and Babak teimourpour. "Analysis of ResearchGate: A Community Detection Approach." (2020)
 - Heydari, Mohammad. "Sentiment Analysis Challenges in Persian Language." arXiv preprint arXiv:1907.04407 (2019).
