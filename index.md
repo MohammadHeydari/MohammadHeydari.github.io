@@ -5,7 +5,9 @@ My Name is Mohammad Heydari, in Persian (محمد حیدری). I was born in Jul
 ### Publication
 - Heydari, Mohammad and Babak teimourpour. "Analysis of ResearchGate: A Community Detection Approach." (2020)
 - Heydari, Mohammad. "Sentiment Analysis Challenges in Persian Language." arXiv preprint arXiv:1907.04407 (2019).
+- Heydari, Mohammad and Babak teimourpour "Link Prediction Techniques for Recommendation Systems in Patents Networks". (2019)
 - Heydari, Mohammad, and Fereidoon Shams Aliee. "Migration to the Microservice Architecture Style Comparing to the Monolithic Architecture Style with Forwarding Challenges Analysis." (2018).
+- Heydari, Mohammad and Hamid Khorsand Rahmizadeh. "Key Notes on Fundamental of Software Engineering (In Persian)." (2017)
 
 ### Contact me
 
