@@ -3,6 +3,7 @@
 My Name is Mohammad Heydari, in Persian (محمد حیدری). I was born in July 30, 1993.
 
 ### News
+- I offered admission for this winter school, a full scholarship on the registration fee for the school from Tehran Institute for Advanced Studies at Khatam University(https://teias.institute/).(January 2020).
 - I invited to present a workshop in Winter Seminar Series - WSS2019 at Sharif University of Technology. (December 2019)
 
 ### Publication
